@@ -5,3 +5,4 @@ git log
 git branch
 git checkout
 git log --oneline
+git clone url
