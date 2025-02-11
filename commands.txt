@@ -6,3 +6,4 @@ git branch
 git checkout
 git log --oneline
 git clone url
+git pull
