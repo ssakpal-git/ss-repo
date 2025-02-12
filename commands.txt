@@ -10,4 +10,4 @@ git pull
 git fetch 
 git fetch1
 git merge
-
+git origin
