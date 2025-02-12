@@ -8,3 +8,4 @@ git log --oneline
 git clone url
 git pull
 git fetch 
+git fetch1
